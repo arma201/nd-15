@@ -1,0 +1,50 @@
+.menu-conatiner {
+    width: 10%;
+    display: block;
+    padding-left: 1700px;
+}
+.button-color {
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.text-size {
+    font-size: 75px ;
+    letter-spacing: -10px;
+    text-align: center;
+    position: fixed;
+    bottom: 550px;
+    right: 800px;
+}
+a:visited {
+    color: black;
+}
+.placeholder-position {
+    position: fixed;
+    bottom: 600px;
+    right: 810px;
+}
+.goooglepaieška-button {
+    position: fixed;
+    bottom: 560px;
+    right: 900px;
+}
+.mansekasi-button {
+     position: fixed;
+     bottom: 560px;
+     right:  800px;
+}
+.lietuva-container {
+    width: 100%;
+    display: block;
+    position: fixed;
+    bottom: 10px;
+    font-size: 20px;
+}
+.link-options {
+    position: fixed;
+    bottom: 10px;
+    padding-left: 1650px;
+    font-size: 20px;
+}
